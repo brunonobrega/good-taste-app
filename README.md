@@ -1,6 +1,6 @@
 ![alt text](assets/images/banner-git.png)
 
-<h1 align="center">Good Taste</h1>
+<h1 align="center">Good Taste APP</h1>
 
 <p align="center">A simple 3(three) screens app for a EatTasty developer test.</p>
 
@@ -8,6 +8,9 @@
     <a href="https://reactnative.dev/">🔗 React Native</a>
 </h2>
 <p align="center">🚀 React Native use best parts of native development with React, a JavaScript library for building user interfaces.</p>
+
+### Important
+#### I create this API, but in react native app I'm using mocked data to list restaurants, foods and your categories.
 
 ### Prerequisites
 
