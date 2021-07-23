@@ -2,7 +2,7 @@
 
 <h1 align="center">Good Taste</h1>
 
-<p align="center">A simple test for EatTasty.</p>
+<p align="center">A simple 3(three) screens app for a EatTasty developer test.</p>
 
 <h2 align="center">
     <a href="https://reactnative.dev/">🔗 React Native</a>
